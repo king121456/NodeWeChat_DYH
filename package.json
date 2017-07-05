@@ -1,0 +1,16 @@
+{
+  "name": "nodewechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "7": "0.0.1",
+    "koa": "^2.3.0",
+    "sha1": "^1.1.1"
+  }
+}
